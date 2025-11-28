@@ -45,10 +45,12 @@ Place screenshots in the repository at `./screenshots/` and reference them below
 
 -Home / catalog with filters (Light Mode):
 <img width="434" height="802" alt="image" src="https://github.com/user-attachments/assets/0f48c268-ed85-4191-9e42-3510506e1275" />
+
 <img width="433" height="657" alt="image" src="https://github.com/user-attachments/assets/60e75671-4e0f-487a-919f-39c517c274d5" />
 
 -Home / catalog with filters (Dark Mode):
-<img width="3072" height="5404" alt="image" src="https://github.com/user-attachments/assets/b99dd203-4f1a-4587-829b-0d5e1ef120c9" />
+<img width="3072" height="3098" alt="image" src="https://github.com/user-attachments/assets/d1edea65-1770-4452-a49e-0f1e48400618" />
+
 
 - Book details:
 <img width="3072" height="4148" alt="image" src="https://github.com/user-attachments/assets/6188a02e-46d5-4678-89bc-e461bac2dfb4" />
