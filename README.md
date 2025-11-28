@@ -44,12 +44,16 @@ Planned: Final UX polish, lint cleanup, image loading optimizations, and adding 
 Place screenshots in the repository at `./screenshots/` and reference them below. Example filenames used in this README:
 
 -Home / catalog with filters (Light Mode):
+
 <img width="434" height="802" alt="image" src="https://github.com/user-attachments/assets/0f48c268-ed85-4191-9e42-3510506e1275" />
 
 <img width="433" height="657" alt="image" src="https://github.com/user-attachments/assets/60e75671-4e0f-487a-919f-39c517c274d5" />
 
 -Home / catalog with filters (Dark Mode):
-<img width="3072" height="3098" alt="image" src="https://github.com/user-attachments/assets/d1edea65-1770-4452-a49e-0f1e48400618" />
+
+<img width="431" height="978" alt="image" src="https://github.com/user-attachments/assets/5155b17b-27b8-4a34-bf9f-e42d2f224ff5" />
+
+<img width="431" height="978" alt="image" src="https://github.com/user-attachments/assets/961bbf18-7fd4-4d8c-bc14-dfa328ba99bc" />
 
 
 - Book details:
