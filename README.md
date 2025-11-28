@@ -53,7 +53,7 @@ Place screenshots in the repository at `./screenshots/` and reference them below
 
 <img width="431" height="978" alt="image" src="https://github.com/user-attachments/assets/5155b17b-27b8-4a34-bf9f-e42d2f224ff5" />
 
-<img width="431" height="978" alt="image" src="https://github.com/user-attachments/assets/961bbf18-7fd4-4d8c-bc14-dfa328ba99bc" />
+<img width="431" height="309" alt="image" src="https://github.com/user-attachments/assets/78a23cb8-19e9-4952-938b-cacacdfc6f03" />
 
 
 - Book details:
